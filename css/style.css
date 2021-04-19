@@ -57,14 +57,18 @@ text-align: right;
   flex-direction: row;
 }
 .section {
+
+}
+#press {
+    margin-bottom: 20px;
+}
+
+#image1 {
   display: inline-block;
   width: 50px;
  height: 50px;
  text-align: center;
 
-}
-#press {
-    margin-bottom: 20px;
 }
 
 /* Write all remaining styles here */
