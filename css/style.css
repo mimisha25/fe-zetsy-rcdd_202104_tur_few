@@ -2,7 +2,12 @@
 
 h1 {
 	color: rgb(152,173,166);
-  font-size: 2em;
+  padding-bottom: 10px;
+margin: 0 0 5px;
+font-size: 5em;
+font-weight: normal;
+font-family: 'Baskerville', serif;
+border-bottom: 1px solid #ccc;
 	}/* link the web font used for the level 1 heading here */
 h2 {
 color: rgb(152,173,166);
