@@ -55,8 +55,6 @@ text-align: right;
 	height: 30%;
   display: flex;
   flex-direction: row;
-  border: 5px #ccc solid;
-padding: 1px;
 }
 .section {
 display: block;
@@ -65,5 +63,9 @@ display: block;
     margin-bottom: 20px;
 }
 
+#image1 {
+  border: 5px #ccc solid;
+padding: 1px;
+}
 
 /* Write all remaining styles here */
