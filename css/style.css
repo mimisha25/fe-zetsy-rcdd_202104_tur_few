@@ -42,6 +42,7 @@ img {
 footer {
 display: block;
 background: #fff;
+text-align: right;
 }
 
 .images {
