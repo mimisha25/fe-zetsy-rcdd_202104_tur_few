@@ -63,6 +63,9 @@ display: block;
     margin-bottom: 20px;
 }
 
+.image1 {
+  padding: 5px;
+}
 #press img {
   border: 5px #ccc solid;
 padding: 5px;
