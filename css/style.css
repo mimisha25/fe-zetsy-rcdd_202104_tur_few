@@ -57,7 +57,7 @@ text-align: right;
   flex-direction: row;
 }
 .section {
-  display: block;
+  display: inline-block;
 
 }
 #press {
