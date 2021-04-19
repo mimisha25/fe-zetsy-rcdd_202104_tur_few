@@ -21,9 +21,7 @@ body {
 
 img {
 	width: 100%;
-	border: 2px;
-	border: green;
-	border: solid;
+	border: 5px rgb(152,173,166) solid;
 }
 
 
