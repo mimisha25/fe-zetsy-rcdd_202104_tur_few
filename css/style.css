@@ -39,6 +39,9 @@ img {
 footer {
 	display: flex;
 	float: right;
+      display: block;
+      text-align: right;
+background: #fff;
 }
 
 .images {
