@@ -52,6 +52,7 @@ background: #fff;
 }
 .images {
   display: block;
+      margin-bottom: 20px;
 }
 
 /* Write all remaining styles here */
